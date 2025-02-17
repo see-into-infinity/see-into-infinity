@@ -16,4 +16,5 @@
 </p>
 
 #  Мой проект API автотестов 
-> <a target="_blank" href="[https://stellarburgers.nomoreparties.site/](https://github.com/see-into-infinity/api_stellar_tests)">Ссылка репозиторий проекта</a>
+> <a target="_blank" href="https://github.com/see-into-infinity/api_stellar_tests">Ссылка на репозиторий</a>
+
