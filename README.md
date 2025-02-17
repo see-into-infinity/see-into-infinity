@@ -14,3 +14,6 @@
 <img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
 <img width="6%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
+
+#  Мой проект API автотестов 
+> <a target="_blank" href="[https://stellarburgers.nomoreparties.site/](https://github.com/see-into-infinity/api_stellar_tests)">Ссылка репозиторий проекта</a>
